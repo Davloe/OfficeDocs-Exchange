@@ -306,7 +306,7 @@ Some services, such as Outlook Anywhere and Exchange ActiveSync, require certifi
 
    - At minimum, you should select **SMTP** and **IIS**.
 
-   - If you receive the warning **Overwrite the existing default SMTP certificate?**, click **Yes**.
+   - If you receive the warning **Overwrite the existing default SMTP certificate?**, click **No**.
 
 ### How do you know this step worked?
 
